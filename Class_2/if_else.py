@@ -51,10 +51,10 @@
 #     elif age <18: #else if=elif
 #         print('You shall not pass')
 #     else:
-#         print('You are allowed no pass')
+#         print('Youd are allowed no pass')
 
 # if age < 0:
-#     print('Error! An age   ')
+#     print('Error! An asdasdasage   ')
 
 import math               
 print('Calcular el area del circulo')
