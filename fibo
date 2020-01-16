@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+int main(){
+    double t1,t2,tn,a,b;
+t1=-1;
+t2=1;
+a=0;
+cout<<"Inserte b: ";
+cin>>b;
+while(a<b){                 
+     tn=t1+t2;
+     cout<<tn<<' ';
+     t1=t2;
+     t2=tn;
+     a++;
+    
+}
+
+    return 0;
+}
