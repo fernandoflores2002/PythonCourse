@@ -19,3 +19,9 @@ We  use the bucles: while,for and some colecctions
 -Added *Class_4*
 -Added *Class_5*
 We use functions and we iniciate with fractals
+
+## Version 1.0.4
+
+-Added *class_5* file Heron.py
+We use theory of errors and we try to make a programm that
+provide us the area of a triangle.

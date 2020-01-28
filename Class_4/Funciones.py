@@ -25,4 +25,3 @@ def saludar(nombre,edad):
     print('Numero desde saludar:',numero)
     #print(f'¡Hola {nombre} tiene {edad} años!)
     return numero #guarda el numero
-def 
