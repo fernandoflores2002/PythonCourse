@@ -25,3 +25,6 @@ We use functions and we iniciate with fractals
 -Added *class_5* file Heron.py
 We use theory of errors and we try to make a programm that
 provide us the area of a triangle.
+
+## VErsion 1.0.5
+-Adeed poo
