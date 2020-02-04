@@ -26,5 +26,9 @@ We use functions and we iniciate with fractals
 We use theory of errors and we try to make a programm that
 provide us the area of a triangle.
 
-## VErsion 1.0.5
--Adeed poo
+## Version 1.0.5
+-Adeed poo.py
+
+## Version 1.0.6
+
+-Adeed modulos.py
