@@ -32,3 +32,7 @@ provide us the area of a triangle.
 ## Version 1.0.6
 
 -Adeed modulos.py
+
+## Version 1.0.7
+
+-Added files.py with the test.txt
